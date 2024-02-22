@@ -21,7 +21,7 @@ Mr. X cannot have two properties being developed in parallel in one unit of time
 
 ## Approach
 
-The solution to this problem involves a recursive approach to consider all possible combinations of properties and their profits. The `calculateMaxProfit` function calculates the maximum profit for a given time unit, while the `getMaxProfitIndex` function determines which property to build next. The `solution` function returns a string representation of the solution, and the `displayOutput` function displays the output in the required format.
+The solution to this problem involves a recursive approach to consider all possible combinations of properties and their profits. The `calculateMaxProfit` function calculates the maximum profit for a given time unit, while the `getMaxProfitIndex` function determines which property to build next. The `displayProbability` function returns a string representation of the solution, and the `displayOutput` function displays the output in the required format.
 
 ## Usage
 
